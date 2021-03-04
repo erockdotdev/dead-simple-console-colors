@@ -44,7 +44,7 @@ Console.warn("This method will be deprecated in the next release")
  * Console.error()
  * Log text in red
  **/
-Console.error("Failed to saved to db") 
+Console.error("Failed to save to db") 
 
 ```
 

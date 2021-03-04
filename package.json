@@ -1,6 +1,6 @@
 {
   "name": "dead-simple-console-colors",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Straight forward info, success, warning, and error console color",
   "main": "index.js",
   "scripts": {
