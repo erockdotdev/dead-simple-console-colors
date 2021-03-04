@@ -1,0 +1,20 @@
+const ConsoleColors = {
+    blue: "\x1b[36m%s\x1b[0m",
+    red: "\x1b[31m%s\x1b[0m",
+    green: "\x1b[32m%s\x1b[0m",
+  };
+  
+  const Console = {
+    info: (...message) => {
+      return console.log(ConsoleColors.blue, ...message);
+    },
+    success: (...message) => {
+      console.log(ConsoleColors.green, ...message);
+    },
+    error: (...message) => {
+      console.error(ConsoleColors.red, ...message);
+    },
+  };
+  
+  module.exports = Console;
+  

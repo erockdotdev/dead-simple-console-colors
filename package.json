@@ -1,0 +1,16 @@
+{
+  "name": "dead-simple-console-colors",
+  "version": "1.0.4",
+  "description": "Console colors – [info:blue], [success:blue], [error:red]. As simple as it gets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console.log",
+    "console",
+    "colors"
+  ],
+  "author": "erockdotdev",
+  "license": "ISC"
+}
