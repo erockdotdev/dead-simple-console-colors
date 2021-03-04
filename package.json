@@ -1,7 +1,7 @@
 {
   "name": "dead-simple-console-colors",
-  "version": "1.0.10",
-  "description": "Straight forward info, success, warning, and error console color",
+  "version": "1.0.11",
+  "description": "Straight forward info, success, warning, and error console colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

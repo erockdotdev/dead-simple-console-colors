@@ -1,4 +1,4 @@
-# Dead Simple Console Colors
+# 💀 Dead Simple Console Colors 💀
 
 Straight forward info, success, warning, and error console color.
 
@@ -24,27 +24,27 @@ import Console from "dead-simple-console-colors"
 ```js
 /** 
  * Console.info() 
- * Log text in cyan color
+ * log text in cyan color
  **/
 Console.info("Starting app...") 
 
 /** 
  * Console.success()
- * Log text in green
+ * log text in green
  **/
 Console.success("Successfully saved entry to db") 
 
 /** 
  * Console.warn()
- * Log text in yellow
+ * log text in yellow
  **/
 Console.warn("This method will be deprecated in the next release") 
 
 /** 
  * Console.error()
- * Log text in red
+ * log text in red
  **/
-Console.error("Failed to saved to db") 
+Console.error("Failed to save to db") 
 
 ```
 
