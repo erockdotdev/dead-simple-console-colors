@@ -53,3 +53,13 @@ Console.error("Failed to save to db")
 ![Alt text](https://github.com/unit57/dead-simple-console-colors/blob/master/dead-simple-console-colors-screen-shot.png?raw=true "Example console.logs with colors")
 
 __That's it!__
+
+
+
+----
+updates to come next
+
+console fu
+
+add easier console groups
+add ability to hide some from rendering ( useful for different environments )
